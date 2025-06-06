@@ -67,5 +67,5 @@ O sistema cumpre com sucesso o objetivo de extrair e cruzar os destinos a partir
 
 ---
 
-Desenvolvido por @Jonnypaiva - Aluno do Curso de Inteligência Artificial da Uniateneu
-Com Orientação do Mestre @Sandromesquita
+Desenvolvido por [@JonnyPaiva](https://github.com/jonnypaiva) - Aluno do Curso de Inteligência Artificial da Uniateneu
+Com Orientação do Mestre [@Sandromesquita](https://github.com/Sandromesquita)
